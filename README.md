@@ -11,6 +11,8 @@ While global climate datasets provide valuable information, they often require s
 
 This project was developed to address that need by providing a reproducible workflow for aggregating climate information directly to Bangladesh's district boundaries (ADM2 level). Using Google Earth Engine, the script extracts and processes multi-year temperature and rainfall observations and converts them into easily interpretable district-level indicators. The resulting outputs can be used independently or integrated with socio-economic, health, agricultural, disaster risk, or climate finance datasets for further analysis.
 
+## Output 
+
 The output map can be found here https://github.com/atiqka/BGD_temp-rf_2018-22/blob/main/bangladesh_temp_rainfall_combined_2018-2022.png
 
 
@@ -174,3 +176,28 @@ https://github.com/atiqka/BGD_temp-rf_2018-22/blob/main/bangladesh_temp_rainfall
 ```
 
 with a resolution of 300 DPI suitable for publication and reporting purposes.
+
+
+## License 
+
+MIT License
+
+Copyright (c) 2025 Atiq Kainan Ahmed.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
